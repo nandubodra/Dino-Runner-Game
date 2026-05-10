@@ -55,6 +55,11 @@ Players can:
 - Progress Through Levels
 
 ---
+## 🎥 Gameplay Demo
+
+[![Watch Gameplay](./assets/gameplay.gif)](https://youtube.com/shorts/MsaDZscEZOY?si=LqWmMYuhGLMERnRS)
+
+---
 
 ## 💻 Features
 
@@ -68,3 +73,4 @@ Players can:
 - Multiple Obstacle Types
 - Dynamic Sound Effects
 - Endless Runner Gameplay
+
